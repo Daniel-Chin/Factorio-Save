@@ -1,0 +1,3 @@
+Current editor: ____
+Mode (single/multi): ____
+
