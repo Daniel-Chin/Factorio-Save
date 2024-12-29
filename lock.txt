@@ -1,3 +1,6 @@
-Current editor: ____
+Current editor: ____  
 Mode (single/multi): ____
 
+## Notes
+TOdo: make engines  
+Question: Lab daisy chain has a weird behavior
