@@ -1,5 +1,5 @@
-Current editor: ____  
-Mode (single/multi): ____
+Current editor: Dan  
+Mode (single/multi): single
 
 ## Notes
 TOdo: make engines  
