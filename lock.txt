@@ -1,4 +1,4 @@
-Current editor: __  
-Mode (single/multi): __
+Current editor: Dan   
+Mode (single/multi): single
 
 ## Notes
