@@ -1,6 +1,5 @@
-Current editor: Dan   
-Mode (single/multi): single
+Current editor: __   
+Mode (single/multi): __
 
 ## Notes
-- make dynamite
 
