@@ -1,5 +1,5 @@
-Current editor: __   
-Mode (single/multi): __
+Current editor: dan   
+Mode (single/multi): single
 
 ## Notes
 
