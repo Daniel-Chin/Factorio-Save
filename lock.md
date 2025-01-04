@@ -1,6 +1,8 @@
 # manhattan
 See https://docs.google.com/spreadsheets/d/1C03X50UOk2g4OD7-NjeaLCNju5AXt5mWT3W0lNmTHdk/edit?usp=sharing  
 
+Current editor: Dan  
+Mode: single  
 
 # first code
 DEPRECATED
